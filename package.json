@@ -263,7 +263,7 @@
     "typescript": "~4.6.0"
   },
   "engines": {
-    "node": "18 - 21"
+    "node": "8 - 21"
   },
   "os": [
     "win32",
