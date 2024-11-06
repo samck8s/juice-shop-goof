@@ -17,3 +17,4 @@ workflows:
   build-test-snyk:
     jobs:
       - snyk-scan
+
